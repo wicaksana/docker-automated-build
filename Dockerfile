@@ -1,4 +1,4 @@
-M ubuntu:latest
+ubuntu:latest
 MAINTAINER M. Arif Wicaksana <arif@belalangtempur.com>
 
 RUN apt-get update && apt-get install -y apache2
